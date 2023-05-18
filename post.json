@@ -1,0 +1,16 @@
+{
+	"cpf": "01046038109",
+	"nome": "André Silva Nogueira",
+	"email": "andre@uol.com.br",
+	"estaAtivo": true,
+	"endereco": {
+		"cep": "76541321",
+		"rua": "Rua 9",
+		"complemento": "casa",
+		"estado": "ES"
+	},
+	"senha": "1234",
+	"telefone": 9999999,
+	"possuiPlanoSaude": true,
+	"imagem": "uma_bela_imagem.png"
+}
